@@ -472,7 +472,6 @@ INSERT INTO purchase_item (purchase_id, product_id, quantity) VALUES
 (36, 5, 1),
 (36, 10, 2);
 
-# Maybe we should update this, since we are now a luxury brand
 INSERT INTO rating (customer_id, product_id, store_id, rating_score, rating_date, comments) VALUES
 (1, 2, 1, 4, '2021-01-05 18:25:12', 'I loved the shoes, but I would not mind waiting a bit more and get an even better product!'),
 (3, 5, 1, 5, '2021-01-24 09:45:33', 'Great quality and service, well worth every penny'),
