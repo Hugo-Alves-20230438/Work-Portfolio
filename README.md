@@ -3,9 +3,8 @@ In this repository, you can take a look at some of the projects that I (individu
 
 ## Projects' Description
 #### Hospital Readmission Prediction
-Hospital readmissions represent a significant challenge in the healthcare sector, both as an indicator of care quality and a driver of escalating costs. Therefore, being able to predict such readmissions can lead to
-improved patient care and substantial cost savings. <br>
-Given these circumstances, we approached the readmissions problem from two perspectives: a **binary classification** model to predict if a patient would be readmitted 30 days post-discharge and a **multiclass classification model**, broadening the options to predict readmissions after 30 days. Using a diabetes dataset, we tested several models for both cases after a rigorous data cleaning and feature selection comprising eight filter, wrapper, and embedded methods, including ANOVA, decision tree, and LASSO. In both cases we had single models, including logistic regression, support vector machines and neural networks, and ensemble models, such as random forests and stacking.
+Hospital readmissions represent a significant challenge in the healthcare sector, both as an indicator of care quality and a driver of escalating costs. Therefore, being able to predict such readmissions can lead to improved patient care and substantial cost savings. <br>
+Given these circumstances, we approached the readmissions problem from two perspectives: a **binary classification** model to predict if a patient would be readmitted 30 days post-discharge and a **multiclass classification model**, broadening the options to predict readmissions after 30 days. Using a diabetes dataset, we tested several models for both cases after a rigorous data cleaning and feature selection (which included 8 different techniques). In both cases, we had single models, including logistic regression, support vector machines and neural networks, and ensemble models, such as random forests and stacking.
 
 #### Movie Analysis
 This cross-sectional study research of the factors driving movie success in 2018, presented in the shape of a poster, focuses on evaluating the economic success of mainstream movies, emphasizing gross income as a key metric. The study aims to provide insights into audience engagement, marketing effectiveness, and industry trends through the lens of gross income, considering the unique circumstances surrounding the year of 2018.
@@ -17,6 +16,6 @@ This project involved the creation of a company, which we chose to be one focuse
 #### Sports Center Customer Segmentation
 Customers are the core of any business. They are the ones who buy the product or service, evaluate it, and, in the end, the best promoters it can have. Thus, understanding how to acquire clients should 
 be a key component in the development of any business strategy, and that starts by getting to know the current ones. <br>
-This project will focus on the application of **descriptive modeling** techniques to XYZ Sports Company. After data exploration, preparation and preprocessing, we tested clustering algorithms such as K-Means, Self-Organizing Maps, DBSCAN and K-Prototypes. Based on the finding, we suggested business applications  according to the various segments of clients identified, in order to improve XYZ's value to its customers.
+This project will focus on the application of **descriptive modeling** techniques to XYZ Sports Company. After data exploration, preparation and feature selection, we tested clustering algorithms such as K-Means, Self-Organizing Maps, DBSCAN and K-Prototypes. Based on the finding, we suggested business applications  according to the various segments of clients identified, in order to improve XYZ's value to its customers.
 
 ## Thank you, and enjoy!
