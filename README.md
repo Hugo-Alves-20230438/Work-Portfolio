@@ -5,7 +5,7 @@ In this repository, you can take a look at some of the projects that I (individu
 
 </div>
 
-### Projects' Description
+<div style="text-align: center;"> ### Projects' Description </div>
 #### Hospital Readmission Prediction
 Hospital readmissions represent a significant challenge in the healthcare sector, both as an indicator of care quality and a driver of escalating costs. Therefore, being able to predict such readmissions can lead to
 improved patient care and substantial cost savings. <br>
