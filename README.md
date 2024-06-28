@@ -1,5 +1,5 @@
-Hi! I'm Hugo, a 21-year old graduated in **Management**, currently attending the first year of the Master's in **Data Science and Advanced Analytics**, with a specialization in **Business Analytics**. <br>
-In this repository, you can take a look at some of the projects that I (individually or as part of a group) have been developing throughout the past months. Below, you will find a short summary of each one.
+Hi! I'm Hugo, a 21-year old graduated in **Management**, just finishing the first year of the Master's in **Data Science and Advanced Analytics**, with a specialization in **Business Analytics**. <br>
+In this repository, you can take a look at some of the projects that I (individually or as part of a group) have been developing throughout the past months. Below, you will find a short summary of each one. <br>
 
 ## Projects' Description
 #### Hospital Readmission Prediction
@@ -16,6 +16,13 @@ This project involved the creation of a company, which we chose to be one focuse
 #### Sports Center Customer Segmentation
 Customers are the core of any business. They are the ones who buy the product or service, evaluate it, and, in the end, the best promoters it can have. Thus, understanding how to acquire clients should 
 be a key component in the development of any business strategy, and that starts by getting to know the current ones. <br>
-This project will focus on the application of **descriptive modeling** techniques to XYZ Sports Company. After data exploration, preparation and feature selection, we tested clustering algorithms such as K-Means, Self-Organizing Maps, DBSCAN and K-Prototypes. Based on the finding, we suggested business applications  according to the various segments of clients identified, in order to improve XYZ's value to its customers.
+This project focused on the application of **descriptive modeling** techniques to XYZ Sports Company. After data exploration, preparation and feature selection, we tested clustering algorithms such as K-Means, Self-Organizing Maps, DBSCAN and K-Prototypes. Based on the finding, we suggested business applications according to the various segments of clients identified, in order to improve XYZ's value to its customers.
+
+#### Others
+Other projects that I took part in include:
+* **Forecasting** the monthly sales of a business unit of a German technological company;
+* A **recommender system** developed for a Portuguese retail organization, to be adopted in their website;
+* A **process mining and machine learning model**, combining both fields to predict the conclusion of a business process in one of the biggest Portuguese private banks.
+Having been developed for real companies in real-use scenarios, the details of these projects will be kept secret (🤐). Nonetheless, hopefully its short description will enhance the diversity of projects that I was able to participate in.
 
 ## Thank you, and enjoy!
