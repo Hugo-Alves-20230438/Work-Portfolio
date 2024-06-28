@@ -27,4 +27,4 @@ Having been developed for real companies in real-use scenarios, the details of t
 
 ## Thank you, and enjoy!
 
-$${\color{green}Thank you, and enjoy! \space \color{lightblue}To \space \color{lightgreen}Github}$$
+## $${\color{green}Thank \space you, \space and \space enjoy!}$$
