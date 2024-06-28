@@ -26,6 +26,7 @@ Other projects that I took part in include:
 * **Forecasting** the monthly sales of a business unit of a German technological company;
 * A **recommender system** developed for a Portuguese retail organization, to be adopted in their website;
 * A **process mining and machine learning model**, combining both fields to predict the conclusion of a business process in one of the biggest Portuguese private banks.
+
 Having been developed for real companies in real-use scenarios, the details of these projects will be kept secret (🤐). Nonetheless, hopefully its short description will enhance the diversity of projects that I was able to participate in.
 
 <br>
