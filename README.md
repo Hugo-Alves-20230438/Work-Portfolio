@@ -29,4 +29,5 @@ Other projects that I took part in include:
 Having been developed for real companies in real-use scenarios, the details of these projects will be kept secret (🤐). Nonetheless, hopefully its short description will enhance the diversity of projects that I was able to participate in.
 
 <br>
+
 # $${\color{green}Thank \space you, \space and \space enjoy!}$$
