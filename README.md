@@ -8,7 +8,7 @@ In this repository, you can take a look at some of the projects that I (individu
 ## $${\color{black}Projects' \space Description}$$
 ### Hospital Readmission Prediction
 Hospital readmissions represent a significant challenge in the healthcare sector, both as an indicator of care quality and a driver of escalating costs. Therefore, being able to predict such readmissions can lead to improved patient care and substantial cost savings. <br>
-Given these circumstances, we approached the readmissions problem from two perspectives: a **binary classification** model to predict if a patient would be readmitted 30 days post-discharge and a **multiclass classification model**, broadening the options to predict readmissions after 30 days. Using a diabetes dataset, we tested several models for both cases after a rigorous data cleaning and feature selection (which included 8 different techniques). In both cases, we had single models, including logistic regression, support vector machines and neural networks, and ensemble models, such as random forests and stacking.
+Given these circumstances, we approached the readmissions problem from two perspectives: a **binary classification** model to predict if a patient would be readmitted 30 days post-discharge and a **multiclass classification** model, broadening the options to predict readmissions after 30 days. Using a diabetes dataset, we tested several models for both cases after a rigorous data cleaning and feature selection (which included 8 different techniques). In both cases, we had single models, including logistic regression, support vector machines and neural networks, and ensemble models, such as random forests and stacking.
 
 ### Movie Analysis
 This cross-sectional study research of the factors driving movie success in 2018, presented in the shape of a poster, focuses on evaluating the economic success of mainstream movies, emphasizing gross income as a key metric. The study aims to provide insights into audience engagement, marketing effectiveness, and industry trends through the lens of gross income, considering the unique circumstances surrounding the year of 2018. <br>
@@ -30,7 +30,7 @@ This project focused on the application of **descriptive modeling** techniques t
 Other projects that I took part in include:
 * **Forecasting** the monthly sales of a business unit of a German technological company;
 * A **recommender system** developed for a Portuguese retail organization, to be adopted in their website;
-* A **process mining and machine learning model**, combining both fields to predict the conclusion of a business process in one of the biggest Portuguese private banks.
+* A **process mining and machine learning** model, combining both fields to predict the conclusion of a business process in one of the biggest Portuguese private banks.
 
 Having been developed for real companies in real-use scenarios, the details of these projects will be kept secret (🤐). Nonetheless, hopefully its short description will enhance the diversity of projects that I was able to participate in.
 
