@@ -1,3 +1,5 @@
+# $${\color{green}Welcome \space to \space my \space GitHub!}$$
+
 Hi! I'm Hugo, a 21-year old graduated in **Management**, just finishing the first year of the Master's in **Data Science and Advanced Analytics**, with a specialization in **Business Analytics**. <br>
 In this repository, you can take a look at some of the projects that I (individually or as part of a group) have been developing throughout the past months. Below, you will find a short summary of each one. <br>
 
@@ -25,6 +27,4 @@ Other projects that I took part in include:
 * A **process mining and machine learning model**, combining both fields to predict the conclusion of a business process in one of the biggest Portuguese private banks.
 Having been developed for real companies in real-use scenarios, the details of these projects will be kept secret (🤐). Nonetheless, hopefully its short description will enhance the diversity of projects that I was able to participate in.
 
-## Thank you, and enjoy!
-
-## $${\color{green}Thank \space you, \space and \space enjoy!}$$
+# $${\color{green}Thank \space you, \space and \space enjoy!}$$
